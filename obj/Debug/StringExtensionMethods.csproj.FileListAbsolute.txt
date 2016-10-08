@@ -1,0 +1,5 @@
+D:\My Documents\wwwroot\TestHtmlParser\StringExtensionMethods\bin\Debug\StringExtensionMethods.dll
+D:\My Documents\wwwroot\TestHtmlParser\StringExtensionMethods\bin\Debug\StringExtensionMethods.pdb
+D:\My Documents\wwwroot\TestHtmlParser\StringExtensionMethods\obj\Debug\StringExtensionMethods.csprojResolveAssemblyReference.cache
+D:\My Documents\wwwroot\TestHtmlParser\StringExtensionMethods\obj\Debug\StringExtensionMethods.dll
+D:\My Documents\wwwroot\TestHtmlParser\StringExtensionMethods\obj\Debug\StringExtensionMethods.pdb
